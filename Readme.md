@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Cleanup
-        uses: sortlist/cleanup-action@main
+        uses: new-idea-org/cleanup-action@main
 ```
 
 ## Inputs
